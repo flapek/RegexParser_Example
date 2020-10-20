@@ -1,0 +1,6 @@
+{ "firstName":"Jan", "lastName":"Kowalski", "date":"2020-10-20", "number":20.1 } //json
+{ firstName:"Andrzej", lastName:"Nowak", date:"2000-10-20", number:0.0021 } //js
+<user><firstName>Grzegorz</firstName><lastName>Grzybek</lastName><data>2021-05-01</data><number>2</number></user> //xml
+{ "firstName":"Ania", "lastName":"Kowalski", "date":"2020-10-20", "number":20.1 } //json
+{ firstName:"Basia", lastName:"Nowak", date:"2000-10-20", number:0.0021 } //js
+<use><firstName>Zofia</firstName><lastName>Grzybek</lastName><data>2021-05-01</data><number>2</number></user> //xml
